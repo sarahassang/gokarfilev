@@ -1,4 +1,4 @@
-{
+
     "name": "سورس جوكر ميوزك",
     "description": "سورس ميوزك لتشغيل الاغاني في المحادثات الصوتية .",
     "keywords": ["JEPTHON", "JEPTHON-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
@@ -7,9 +7,11 @@
     "env": {
         "APP_ID": {
             "description": "ضع هنا الايبي ايدي حساب المساعد"
+	     "value": "26388535"
         },
         "API_HASH": {
-            "description": "ضع هنا الايبي هاش حساب المساعد"
+          "description": "ضع هنا الايبي هاش حساب المساعد"
+	 "value": "20e7eb80fb472a9f75b55f81894cfc16"
         },
         "STRING_SESSION": {
             "description": "يرجى وضع كود سيشن تليثون (كود تيرمكس) للحساب المساعد هنا ",
