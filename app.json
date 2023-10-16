@@ -1,14 +1,14 @@
-{
+
     "name": "سورس جوكر ميوزك",
     "description": "سورس ميوزك لتشغيل الاغاني في المحادثات الصوتية .",
     "keywords": ["JEPTHON", "JEPTHON-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
     "repository": "",
   "stack": "container",
     "env": {
-        "APP_ID": {
+        "APP_ID": {26388535
             "description": "ضع هنا الايبي ايدي حساب المساعد"
         },
-        "API_HASH": {
+        "API_HASH": {20e7eb80fb472a9f75b55f81894cfc16
             "description": "ضع هنا الايبي هاش حساب المساعد"
         },
         "STRING_SESSION": {
